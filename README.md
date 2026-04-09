@@ -50,3 +50,7 @@ Power BI for visuals.
 [Query 3 .pbix visual output file](query-3/Customer_Value.pbix)
 
 [Query 4 .pbix visual output file](query-4/Top3_Products.pbix)
+
+[Employees Database Source](https://github.com/vilevent/employees-db)
+
+[BikeShop Database Source](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)

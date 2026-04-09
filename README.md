@@ -39,7 +39,7 @@ Power BI for visuals.
 
 **Query 4 (Bikeshop Database):** Highlights the top 3 revenue-generating products within each category.  
 
-[Link To SQL Query 4](query-3/4_top3_products.sql)
+[Link To SQL Query 4](query-4/4_top3_products.sql)
 
 [Link To Visual 4](query-4/Top3_Products.png)
 

@@ -17,7 +17,7 @@ Power BI for visuals.
 
 [Link To SQL Query 1](query-1/1_salary_difference.sql)
 
-[Link To Visual 1]
+[Link To Visual 1](query-1/salary_difference.png)
 
 --
 

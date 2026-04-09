@@ -45,6 +45,8 @@ Power BI for visuals.
 
 ## 📄 Source Files
 
-[Query 1 .pbix visual output file] (query-1/
-[Query 3 .pbix visual output file] (query-3/
-[Query 4 .pbix visual output file] (query-4/
+[Query 1 .pbix visual output file] (query-1/Salary_difference.pbix)
+
+[Query 3 .pbix visual output file] (query-3/Customer_Value.pbix)
+
+[Query 4 .pbix visual output file] (query-4/Top3_Products.pbix)

@@ -7,8 +7,8 @@ This project includes four SQL queries across two databases, designed to answer 
 Each query focuses on a specific analytical problem, ranging from employee salary analysis to customer segmentation and product performance.
 
 ## 🛠 Tools Used
-MySQL (Joins, Aggregations, Subqueries, Window Functions)
-Power BI for visuals
+MySQL (Joins, Aggregations, Subqueries, Window Functions).
+Power BI for visuals.
 
 ## 🔑 Key Insights / Results
 

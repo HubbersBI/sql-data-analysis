@@ -1,9 +1,9 @@
 # SQL Data Analysis
 
-**Note:** All queries in this project were written without AI to demonstrate my own SQL and analytical skills.
+**Note:** All queries in this project were written by me without AI to demonstrate my own SQL and analytical skills.
 
 ## 📊 Project Overview
-This project includes four SQL queries across two fictional databases, designed to answer key business questions.
+This project includes four SQL queries across two fictional databases, designed to answer business questions.
 Each query focuses on a specific analytical problem, ranging from employee salary analysis to customer segmentation and product performance.
 
 ## 🛠 Tools Used
@@ -13,7 +13,7 @@ Power BI for visuals.
 
 ## 🔑 Key Insights / Results
 
-**Query 1 (Employees Database):** Identifies employees with multiple contracts since 1998 and highlights first salary changes compared to the average increase.
+**Query 1 (Employees Database):** Identifies employees with multiple contracts since 1998 and shows first salary changes compared to the average increase.
 
 [Link To SQL Query 1](query-1/1_salary_difference.sql)
 

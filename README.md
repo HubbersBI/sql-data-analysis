@@ -3,7 +3,7 @@
 **Note:** All queries in this project were written without AI to demonstrate my own SQL and analytical skills.
 
 ## 📊 Project Overview
-This project includes four SQL queries across two databases, designed to answer key business questions.
+This project includes four SQL queries across two fictional databases, designed to answer key business questions.
 Each query focuses on a specific analytical problem, ranging from employee salary analysis to customer segmentation and product performance.
 
 ## 🛠 Tools Used
@@ -43,6 +43,8 @@ Power BI for visuals.
 
 [Link To Visual 4](query-4/Top3_Products.png)
 
-## 📄 Documentation / Source Files
+## 📄 Source Files
 
-- SQL scripts: [Analytical Queries](sql/analytical_queries.sql)
+[Query 1 .pbix visual output file] (query-1/
+[Query 3 .pbix visual output file] (query-3/
+[Query 4 .pbix visual output file] (query-4/
